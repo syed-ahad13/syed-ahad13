@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Syed%20Abdul%20Ahad&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Systems%20Architect%20%E2%80%A2%20Researcher&descAlignY=58&descSize=18&descColor=a78bfa&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Syed%20Abdul%20Ahad&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Systems%20Architect%20%E2%80%A2%20Researcher&descAlignY=58&descSize=18&descColor=a78bfa&animation=fadeIn" width="100%"/>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/syedahad13">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:syedahad171@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
@@ -181,6 +181,43 @@ class SyedAbdulAhad:
 
 ---
 
+## ◈ &nbsp;Competitive Programming
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-syedahad13-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/syedahad13)
+&nbsp;
+[![Codeforces](https://img.shields.io/badge/Codeforces-syed__ahad13-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/syed_ahad13)
+&nbsp;
+![Algorithms](https://img.shields.io/badge/Algorithms-Sharpened_Daily-6d28d9?style=for-the-badge&logo=buffer&logoColor=white)
+
+<br/>
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+**⚡ LeetCode**
+
+<img src="https://leetcard.jacoblin.cool/syedahad13?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=8" width="380"/>
+
+</td>
+<td align="center" width="50%">
+
+**🏆 Codeforces**
+
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=syed_ahad13&theme=github_dark&max_problems=8" width="380"/>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+---
+
 ## ◈ &nbsp;Research Interests
 
 ```
@@ -198,9 +235,9 @@ class SyedAbdulAhad:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=syed-ahad13&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&ring_color=6d28d9"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=syed-ahad13&theme=github_dark" height="165em"/>
 &nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syed-ahad13&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=syed-ahad13&theme=github_dark" height="165em"/>
 
 <br/><br/>
 
@@ -242,9 +279,9 @@ class SyedAbdulAhad:
 
 ### Let's Build Something Significant
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/syedahad13)
 &nbsp;
-[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syedahad171@gmail.com)
 
 *Research collaborations, ambitious projects, and hard problems — always welcome.*
 
