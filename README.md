@@ -1,234 +1,255 @@
 <div align="center">
 
-# Syed Abdul Ahad
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Syed%20Abdul%20Ahad&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Systems%20Architect%20%E2%80%A2%20Researcher&descAlignY=58&descSize=18&descColor=a78bfa&animation=fadeIn" width="100%"/>
 
-### AI Engineer • Data Scientist • Systems Thinker • Competitive Programmer
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=syed-ahad13&style=for-the-badge&color=6d28d9&label=PROFILE+VIEWS"/>
 
-Building intelligent systems at the intersection of  
-Machine Learning • Distributed Systems • Data Infrastructure • Research
+<br/><br/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=680&lines=Building+production-grade+AI+systems;Multimodal+Deep+Learning+%7C+Graph+Neural+Networks;Data+Engineering+at+Scale+%7C+Systems+Design;Where+Mathematics+meets+Engineering+meets+Research" alt="Typing SVG"/>
+</a>
 
 </div>
 
 ---
 
-# About Me
+<br/>
 
-I design and build **scalable intelligent systems** that combine:
+## ◈ &nbsp;Who I Am
 
-• Machine Learning  
-• Data Engineering  
-• Distributed Systems  
-• Algorithmic Problem Solving  
+```python
+class SyedAbdulAhad:
+    title       = "AI Engineer · Data Scientist · Systems Thinker"
+    location    = "Pakistan 🇵🇰"
+    focus       = [
+        "Production-grade AI Architectures",
+        "Large-Scale Machine Learning Systems",
+        "Multimodal & Graph Deep Learning",
+        "High-Performance Data Infrastructure",
+    ]
+    philosophy  = "Build systems, not just models."
+    currently   = "Architecting multimodal AI systems + deep learning research"
+    open_to     = ["Research Collaborations", "Ambitious Projects", "Impactful Problems"]
+```
 
-My work focuses on **production-grade AI architectures**, **high-performance data systems**, and **research-oriented machine learning models**.
+> *I design intelligent systems at the intersection of **machine learning**, **distributed infrastructure**, and **algorithmic rigor** — with an obsession for both theoretical depth and production reality.*
 
-I am particularly interested in:
-
-- Large Scale Machine Learning Systems
-- Multimodal Deep Learning
-- Graph Neural Networks
-- Retrieval Systems
-- Data-centric AI
-- High Performance Computing
-- AI Systems Engineering
-
----
-
-# Current Focus
-
-- Architecting **multimodal AI systems**
-- Research in **deep learning architectures**
-- Large scale **data engineering pipelines**
-- Competitive programming (algorithmic problem solving)
-- AI systems design
+<br/>
 
 ---
 
-# Core Technical Domains
+## ◈ &nbsp;Core Technical Domains
 
-## Machine Learning
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- Deep Learning
-- Representation Learning
-- Graph Neural Networks
-- Multimodal Learning
-- Model Optimization
-- Retrieval Systems
+### 🧠 &nbsp;Machine Learning
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
-Tools
+- **Deep & Representation Learning**
+- **Graph Neural Networks** (PyG, DGL)
+- **Multimodal Learning** — vision + text + graphs
+- **Neural Retrieval Systems**
+- **Model Optimization & Efficiency**
 
+</td>
+<td width="50%" valign="top">
 
-PyTorch
-TensorFlow
-Scikit-learn
-HuggingFace
+### ⚙️ &nbsp;Data Engineering
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
+- **Distributed Data Processing**
+- **ETL / ELT Pipeline Architecture**
+- **Feature Engineering at Scale**
+- **Data-centric ML Infrastructure**
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-## Data Engineering
+### 🏗️ &nbsp;Backend & Systems
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-- Distributed Data Processing
-- ETL Pipelines
-- Data Infrastructure
-- Feature Engineering Systems
+- **High-Performance ML Serving**
+- **Microservices Architecture**
+- **Inference Infrastructure**
+- **API Design for AI Systems**
 
-Tools
+</td>
+<td width="50%" valign="top">
 
+### 🔢 &nbsp;Algorithms & Problem Solving
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-Spark
-Airflow
-Kafka
-SQL
+- **Advanced Data Structures & Graph Algorithms**
+- **Dynamic Programming & Mathematical Optimization**
+- **Competitive Programming**
+- **Algorithmic Systems Design**
 
+</td>
+</tr>
+</table>
 
----
-
-## Backend & Systems
-
-- High performance APIs
-- ML serving infrastructure
-- Microservices
-
-Tools
-
-
-FastAPI
-Docker
-Linux
-Redis
-
-
----
-
-## Algorithms & Problem Solving
-
-- Advanced Data Structures
-- Graph Algorithms
-- Dynamic Programming
-- Mathematical Optimization
-
-Languages
-
-
-C++
-Python
-SQL
-
+<br/>
 
 ---
 
-# Selected Projects
+## ◈ &nbsp;Selected Projects
 
-## MED-RiskNET
+<details open>
+<summary><b>🏥 &nbsp;MED-RiskNET &nbsp;—&nbsp; Multimodal Clinical Risk Prediction</b></summary>
+<br/>
 
-Multimodal deep learning architecture for **clinical risk prediction** integrating:
+> A production-oriented deep learning architecture for clinical risk stratification, fusing heterogeneous patient data modalities through a unified transformer-based fusion system.
 
-- Clinical tabular data
-- Medical imaging
-- Clinical text
-- Patient similarity graphs
+```
+┌─────────────────────────────────────────────────────────────────────────┐
+│                         MED-RiskNET Architecture                        │
+├──────────────┬──────────────────┬──────────────────┬────────────────────┤
+│  Tabular     │  Medical Image   │  Clinical Text   │  Patient Graph     │
+│  Encoder     │  Encoder (CNN)   │  Encoder (BERT)  │  (GNN Layer)       │
+├──────────────┴──────────────────┴──────────────────┴────────────────────┤
+│                    Multimodal Fusion Transformer                         │
+├─────────────────────────────────────────────────────────────────────────┤
+│                Dual-Task Prediction Head (Risk · Outcome)               │
+└─────────────────────────────────────────────────────────────────────────┘
+```
 
-Architecture:
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![PyG](https://img.shields.io/badge/PyTorch_Geometric-3C2179?style=flat-square&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
+</details>
 
-Tabular Encoder
-Medical Image Encoder
-Clinical Text Encoder
-Graph Neural Network
-↓
-Multimodal Fusion Transformer
-↓
-Dual-task Prediction System
+<br/>
 
+<details>
+<summary><b>🔍 &nbsp;Semantic Code Search Engine &nbsp;—&nbsp; Neural Code Retrieval System</b></summary>
+<br/>
 
-Stack
+> Graph-aware semantic code retrieval using AST embeddings, CodeBERT, and neural re-ranking — enabling natural language → code search with structural understanding of codebases.
 
+**Key Technical Decisions:**
+- `CodeBERT` for language-aware code representations
+- `GNN over AST graphs` to capture structural semantics
+- `Neural ranking` layer for retrieval optimization
+- Supports cross-lingual code search
 
-PyTorch
-PyTorch Geometric
-Transformers
-FastAPI
-Docker
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/CodeBERT-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
+</details>
 
----
+<br/>
 
-## Code Search Engine
+<details>
+<summary><b>🤖 &nbsp;Autonomous AI Decision System &nbsp;—&nbsp; Large-Scale AI Pipeline</b></summary>
+<br/>
 
-Semantic code retrieval system using
+> End-to-end intelligent decision system integrating distributed data pipelines, ML inference, and decision logic into a unified production-grade architecture.
 
-- CodeBERT
-- Graph Neural Networks
-- AST graph embeddings
-- Neural ranking models
+**Focus:** Complete system design — from raw data ingestion to real-time intelligent decisions at scale.
 
-Capabilities
+</details>
 
-- Natural language → code retrieval
-- Graph-aware code representations
-- Retrieval ranking optimization
-
----
-
-## Autonomous AI Decision System
-
-Large scale architecture integrating:
-
-- Data pipelines
-- Machine learning models
-- inference APIs
-- decision systems
-
-Focus
-
-Production-grade AI system design.
+<br/>
 
 ---
 
-# Research Interests
+## ◈ &nbsp;Research Interests
 
-- Multimodal learning
-- Graph representation learning
-- Neural retrieval systems
-- AI system architecture
-- Data-centric machine learning
+```
+◦ Multimodal Representation Learning        ◦ Neural Retrieval & Ranking Systems
+◦ Graph Neural Networks & Geometric DL      ◦ Data-Centric AI & Label Efficiency
+◦ AI Systems Architecture & Efficiency      ◦ Large-Scale ML Infrastructure
+◦ High Performance Computing for ML        ◦ Foundation Model Adaptation
+```
 
----
-
-# GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=syed-ahad13)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syed-ahad13)
+<br/>
 
 ---
 
-# Engineering Philosophy
+## ◈ &nbsp;GitHub Activity
 
-I believe the most powerful AI systems are built at the intersection of:
+<div align="center">
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=syed-ahad13&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&ring_color=6d28d9"/>
+&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syed-ahad13&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8"/>
 
-Mathematics
-Algorithms
-Systems Engineering
-Machine Learning
+<br/><br/>
 
+<img src="https://streak-stats.demolab.com?user=syed-ahad13&theme=tokyonight&hide_border=true&background=0d1117&ring=6d28d9&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=6b7280&stroke=6d28d9" height="150"/>
 
-The future belongs to engineers who can design **complete intelligent systems**, not just train models.
+</div>
+
+<br/>
 
 ---
 
-# Contact
+## ◈ &nbsp;Engineering Philosophy
 
-LinkedIn  
-Email  
-Research collaborations welcome.
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   The most powerful AI systems live at the intersection of:      ║
+║                                                                  ║
+║       Mathematics  ×  Algorithms  ×  Systems  ×  ML             ║
+║                                                                  ║
+║   Master the theory. Engineer the reality.                       ║
+║   Design complete systems — not isolated models.                 ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+*The future belongs to engineers who can take a problem from raw data*  
+*all the way to a deployed, robust, intelligent system.*
+
+</div>
+
+<br/>
 
 ---
 
 <div align="center">
 
-"Build systems, not just models."
+### Let's Build Something Significant
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+&nbsp;
+[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+
+*Research collaborations, ambitious projects, and hard problems — always welcome.*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Build+systems.+Not+just+models.&fontSize=18&fontColor=a78bfa&fontAlignY=65&animation=fadeIn" width="100%"/>
 
 </div>
