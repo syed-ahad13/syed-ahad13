@@ -224,7 +224,7 @@ class SyedAbdulAhad:
 ◦ Multimodal Representation Learning        ◦ Neural Retrieval & Ranking Systems
 ◦ Graph Neural Networks & Geometric DL      ◦ Data-Centric AI & Label Efficiency
 ◦ AI Systems Architecture & Efficiency      ◦ Large-Scale ML Infrastructure
-◦ High Performance Computing for ML        ◦ Foundation Model Adaptation
+◦ High Performance Computing for ML         ◦ Foundation Model Adaptation
 ```
 
 <br/>
@@ -258,7 +258,7 @@ class SyedAbdulAhad:
 ║                                                                  ║
 ║   The most powerful AI systems live at the intersection of:      ║
 ║                                                                  ║
-║       Mathematics  ×  Algorithms  ×  Systems  ×  ML             ║
+║       Mathematics  ×  Algorithms  ×  Systems  ×  ML              ║
 ║                                                                  ║
 ║   Master the theory. Engineer the reality.                       ║
 ║   Design complete systems — not isolated models.                 ║
